@@ -1,2 +1,3 @@
 # CODSOFT
-CodeSoft given tasks 
+
+Done 1, 2 & 3 task.
